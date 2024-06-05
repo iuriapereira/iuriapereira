@@ -1,5 +1,5 @@
 ## Iuri Pereira
- <div align="center" style="display: block; background: white">
+ <div align="center" style="display: block; background-color: #f0f0f0;">
   <a href="https://github.com/iuriapereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriapereira&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriapereira&layout=compact&langs_count=16&theme=material-palenight"/>
