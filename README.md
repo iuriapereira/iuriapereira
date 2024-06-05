@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/iuriapereira">
-  <img height="180em" src="https://github.com/iuriapereira/sistema-mecanico"/>
+  <img height="180em" src="[https://github.com/iuriapereira/sistema-mecanico](https://github.com/iuriapereira/sistema-mecanico.git)"/>
 </div>
    
 <div style="display: block"><br>
