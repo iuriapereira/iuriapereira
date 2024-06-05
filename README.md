@@ -5,9 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriapereira&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
-<div>
+<div align="center" style="display: block">
   <a href="https://github.com/iuriapereira">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=iuriapereira&repo=sistema-mecanico&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=iuriapereira&repo=sistema-mecanico&theme=material-palenight"/>
 </div>
    
 <div style="display: block"><br>
