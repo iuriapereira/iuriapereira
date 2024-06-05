@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <a href="[[https://github.com/iuriapereira](https://github.com/iuriapereira/sistema-mecanico.git)](https://github.com/iuriapereira/sistema-mecanico)">
+  <a href="https://github.com/iuriapereira">
   <img height="180em" src="https://github.com/iuriapereira/sistema-mecanico.git"/>
 </div>
    
