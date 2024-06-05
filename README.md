@@ -1,6 +1,6 @@
 ## Iuri Pereira
- <div align="center" style="display: flex; flex-direction: column">
-  <a href="https://github.com/luishresende">
+ <div align="center" style="display: block">
+  <a href="https://github.com/iuriapereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriapereira&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriapereira&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=iuriapereira&repo=codemarket&theme=material-palenight"/>
 </div>
    
-<div style="display: flex; flex-direction: column"><br>
+<div style="display: block"><br>
   <img align="center" alt="Iuri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Iuri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Iuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
