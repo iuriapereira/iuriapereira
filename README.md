@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/iuriapereira">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/pin/?username=iuriapereira&repo=codemarket&theme=material-palenight](https://github.com/iuriapereira/sistema-mecanico/tree/main)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=iuriapereira&repo=codemarket&theme=material-palenight"/>
 </div>
    
 <div style="display: block"><br>
