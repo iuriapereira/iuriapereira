@@ -7,7 +7,7 @@
 
 <div align="center" style="display: block">
   <a href="https://github.com/iuriapereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=iuriapereira&repo=[https://github.com/iuriapereira/sistema-vendas.git&theme=material-palenight](https://github.com/iuriapereira/sistema-vendas.git)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=iuriapereira&repo=https://github.com/iuriapereira/sistema-vendas.git&theme=material-palenight"/>
 </div>
    
 <div align="center" style="display: block"><br>
