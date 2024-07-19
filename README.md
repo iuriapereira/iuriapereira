@@ -1,16 +1,21 @@
 ## Eu sou Iuri Pereira
- <div align="center" style="display: block; background-color: green">
-  <a href="https://github.com/iuriapereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriapereira&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriapereira&layout=compact&langs_count=16&theme=material-palenight"/>
-</div>
-
+- 💻 Atualmente sou estudante de Ciências da Computação na UTFPR
+- 💻 Também sou bolsista pelo laboratório do LAMIA no projeto de IA para Ambientes Imersisvos da empresa B2ML
+- Contato 📞 Chamada ou 💬 WhatsApp:
+    - (77) 98869-5978
+  
 <div align="center" style="display: block">
   <a href="https://github.com/iuriapereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=iuriapereira&repo=https://github.com/iuriapereira/sistema-vendas.git&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriapereira&show_icons=true&theme=material-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriapereira&layout=compact&langs_count=16&theme=material-dark"/>
 </div>
+
+<!-- <div align="center" style="display: block">
+  <a href="https://github.com/iuriapereira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=iuriapereira&repo=https://github.com/iuriapereira/sistema-vendas.git&theme=material-palenight"/>
+ </div>  -->
    
-<div align="center" style="display: block"><br>
+<div align="center" style="display: block; margin: 10px"><br>
   <img align="center" alt="Iuri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Iuri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Iuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
