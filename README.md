@@ -1,4 +1,4 @@
-## Iuri Pereira
+## Eu sou Iuri Pereira
  <div align="center" style="display: block; background-color: green">
   <a href="https://github.com/iuriapereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriapereira&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
