@@ -2,7 +2,7 @@
 - 💻 Atualmente sou estudante de Ciências da Computação na UTFPR
 - 💻 Também sou bolsista pelo laboratório do LAMIA no projeto de IA para Ambientes Imersisvos da empresa B2ML
 - Contato 📞 Chamada ou 💬 WhatsApp:
-    - (77) 98869-5978
+    - (45) 99941-4704
   
 <div align="center" style="display: block">
   <a href="https://github.com/iuriapereira">
