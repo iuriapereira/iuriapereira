@@ -4,13 +4,18 @@
 - Contato 📞 Chamada ou 💬 WhatsApp:
     - (45) 99941-4704
   
-<div align="center" style="display: block" background-color: transparent>
+<div align="center" style="display: block">
   <a href="https://github.com/iuriapereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriapereira&show_icons=true&theme=material-dark&include_all_commits=true&count_private=true&bg_color=00000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriapereira&layout=compact&langs_count=16&theme=material-dark&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriapereira&show_icons=true&theme=material-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriapereira&layout=compact&langs_count=16&theme=material-dark"/>
 </div>
+
+<!-- <div align="center" style="display: block">
+  <a href="https://github.com/iuriapereira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=iuriapereira&repo=https://github.com/iuriapereira/sistema-vendas.git&theme=material-palenight"/>
+ </div>  -->
    
-<div align="center" style="display: block; margin: 10px; background-color: transparent"><br>
+<div align="center" style="display: block; margin: 10px"><br>
   <img align="center" alt="Iuri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Iuri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Iuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
