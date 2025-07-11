@@ -6,8 +6,8 @@
   
 <div align="center" style="display: block">
   <a href="https://github.com/iuriapereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriapereira&show_icons=true&theme=material-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriapereira&layout=compact&langs_count=16&theme=material-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriapereira&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriapereira&layout=compact&langs_count=16"/>
 </div>
 
 <!-- <div align="center" style="display: block">
